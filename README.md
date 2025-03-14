@@ -1,2 +1,1 @@
-Hello, Git!
- hello,AWS_git
+Hello, Git from AWS!
